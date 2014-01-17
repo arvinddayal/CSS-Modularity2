@@ -1,1 +1,35 @@
 /* ADD YOUR STYLES HERE */
+img {
+	padding: 20px;
+}
+
+.large-pic {
+	width: 160px;
+	height: 160px;
+}
+
+.medium-pic {
+	width: 120px;
+	height: 120px;
+}
+
+.small-pic {
+	width: 80px;
+	height: 80px;
+}
+
+.xsmall-pic {
+	width: 50px;
+	height: 50px;
+}
+
+.horizontal {
+	float: left;
+	padding: 20px;
+}
+
+.vertical {
+	vertical-align: middle;
+	clear: both;
+	height: 75px;
+}
