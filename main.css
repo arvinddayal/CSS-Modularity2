@@ -31,5 +31,13 @@ img {
 .vertical {
 	vertical-align: middle;
 	clear: both;
-	height: 75px;
+	padding: 20px;
+}
+
+.horizontal-list {
+	list-style-type: none;
+	padding: none;
+	margin: none;
+	display: inline;
+	text-decoration: none;
 }
