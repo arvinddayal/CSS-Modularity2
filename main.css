@@ -41,3 +41,67 @@ img {
 	display: inline;
 	text-decoration: none;
 }
+
+.button {
+	background-color: #ED828A;
+	color: #FFF;
+	float: left;
+	margin: 10px;
+	text-decoration: none;
+}
+.buy {
+	height: 65px;
+	font-weight: bold;
+	width: 250px;
+	text-align: center;
+	padding-top: 35px;
+	border-radius: 10px;
+	font-size: 24px;
+	margin-left: 0px;
+	margin-right: 5px;
+}
+
+.learn {
+	height: 40px;
+	font-weight: bold;
+	width: 200px;
+	text-align: center;
+	padding-top: 20px;
+	margin-top: 35px;
+	border-radius: 10px;
+	font-size: 18px;
+	margin-left: 0px;
+	margin-right: 5px;
+}
+
+.ok {
+	height: 30px;
+	width: 60px;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 45px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
