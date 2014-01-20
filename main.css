@@ -96,8 +96,21 @@ img {
 	margin-right: 5px;
 }
 
+.highlight {
+	width: 150px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: 
+}
 
-
+a.highlight:hover {
+	background-color: #FFFF00;
+	color: #000;
+}
 
 
 
