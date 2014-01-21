@@ -104,7 +104,7 @@ img {
 	padding-bottom: 10px;
 	font-size: 20px;
 	text-align: center;
-	text-decoration: 
+	text-decoration: none;
 }
 
 a.highlight:hover {
@@ -159,5 +159,34 @@ time {
 	margin-top: 0px;
 }
 
+.tabs {
+	padding-top: 50px;
+	position: relative;
+}
 
+.tabs-group {
+	list-style: none;
+}
+
+.tabs-group li {
+	display: inline;
+	float: left;
+	margin-left: 0px;
+	margin-right: 10px;
+	padding-left: 0px;
+	border: 1pt solid #DBDCF2;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.tabs-group li a {
+	text-decoration: none;
+	color: blue;
+	font-weight: bold;
+}
+
+.tab-box {
+	border: 1pt solid #DBDCF2;
+	display: inline-block;
+	padding: 5px;
+}
 
