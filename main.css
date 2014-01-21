@@ -112,13 +112,27 @@ a.highlight:hover {
 	color: #000;
 }
 
+.horizontal-list > li {
+	float: left;
+	margin: 10px;
+	font-size: 24px;
 
+}
 
+.horizontal-list > li > a {
+	color: #ED828A;
+	text-decoration: none;	
+	border-bottom: 2.5pt solid #ED828A;
+}
 
+.horizontal-list > li > span {
+	color: rgba(204,204,204,.8);
+	border-bottom: 2.5pt solid rgba(204,204,204,.8);
+}
 
-
-
-
+#nounder {
+	border-bottom: none;
+}
 
 
 
