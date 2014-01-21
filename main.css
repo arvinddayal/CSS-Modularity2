@@ -134,8 +134,30 @@ a.highlight:hover {
 	border-bottom: none;
 }
 
+time {
+	color: #B5BCC7;
+}
 
+.left {
+/*	float: left;*/
+	display: inline-block;
+}
 
+.comment {
+	position: absolute;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+.comment-container {
+	height: 90px;
+}
+
+.comment-container1 {
+	height: 80px;
+	padding-top: 0px;
+	margin-top: 0px;
+}
 
 
 
